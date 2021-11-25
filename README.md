@@ -6,5 +6,5 @@ Pomodoro Tekniğine uygun olarak hazırlanan bir geri sayım sayacı.
 
 Özellikleri:
 
-- Tabi ki Pomodoro, Kısa Ara, Uzun Ara’ların geri sayımlarını yapabilme,
+- Pomodoro, Kısa Ara, Uzun Ara’ların geri sayımlarını yapabilme,
 - Pomodoro, Kısa Ara, Uzun Ara’ların zamanlarını istendiği gibi değiştirebilme.
